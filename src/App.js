@@ -5,7 +5,6 @@ import { Route, Link, Switch } from "react-router-dom";
 import Display from "./Display";
 import Form from "./Form";
 
-
 function App() {
 
   const url = "https://tunr-back-end.herokuapp.com"
